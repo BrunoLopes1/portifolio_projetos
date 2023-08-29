@@ -1,3 +1,4 @@
+
 # Portfólio de Projetos em Ciência de Dados
 
 Este é o meu portfólio de projetos em ciência de dados, onde compartilho uma seleção de trabalhos que demonstrem minha habilidade e experiência na área de análise de dados, modelagem estatística e visualização de informações. Cada projeto representa um desafio único que enfrentei para explorar insights, tirar conclusões e comunicar resultados.
