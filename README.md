@@ -21,7 +21,7 @@ Estou constantemente buscando expandir meus conhecimentos e aprofundar minhas ha
 
 ## Contato
 
-- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/bruno-lopes-9a363b23b/)
+- **LinkedIn:** [Clique aqui](https://www.linkedin.com/in/bruno-lopes-9a363b23b/)
 
 Sinta-se à vontade para conectar-se comigo no LinkedIn para acompanhar meus projetos e explorar possíveis colaborações e oportunidades na área de ciência de dados.
 ```
