@@ -5,7 +5,7 @@ Este é o meu portfólio de projetos em ciência de dados, onde compartilho uma 
 
 ## Sobre Mim
 
-Sou um entusiasta da ciência de dados em precesso de formação na ciência da computação(6° Semestre), apaixonado por explorar dados e transformá-los em informações significativas. Minha jornada nesse campo envolve a aplicação de técnicas avançadas para resolver problemas do mundo real, desde a análise exploratória até a construção de modelos preditivos e a criação de visualizações impactantes.
+Sou um entusiasta da ciência de dados em precesso de formação na ciência da computação(7° Semestre), apaixonado por explorar dados e transformá-los em informações significativas. Minha jornada nesse campo envolve a aplicação de técnicas avançadas para resolver problemas do mundo real, desde a análise exploratória até a construção de modelos preditivos e a criação de visualizações impactantes.
 
 ## Objetivo
 
